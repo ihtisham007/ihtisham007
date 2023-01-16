@@ -1,4 +1,11 @@
-### Hi there 👋
+# 🧍 Ihtisham Bashir
+####         🎓 Computer Scientist
+
+#  💻 Expertise
+#### ✔️ Node js Developer
+#### ✔️ Python Developer 
+#### ✔️ Php Developer
+#### ✔️ Linux Administrator
 
 <!--
 **ihtisham007/ihtisham007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
