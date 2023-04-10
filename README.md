@@ -3,8 +3,11 @@ I'm a Computer Scientist 🎓 with a passion for creating robust and scalable we
 
 #  🛠️ Expertise
 ✔️ Node js Developer
-✔️ Python Developer 
+
+✔️ Python Developer
+
 ✔️ Php Developer
+
 ✔️ Linux Administrator
 
 # 📫 Get in touch
