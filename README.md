@@ -1,5 +1,5 @@
 # 🧍 Hi there, I'm Ihtisham Bashir 👋
-#### I'm a Computer Scientist 🎓 with a passion for creating robust and scalable web applications. With expertise in multiple programming languages and extensive experience in Node.js, Python, PHP, and Linux administration, I strive to create elegant and efficient solutions to complex problems.
+I'm a Computer Scientist 🎓 with a passion for creating robust and scalable web applications. With expertise in multiple programming languages and extensive experience in Node.js, Python, PHP, and Linux administration, I strive to create elegant and efficient solutions to complex problems.
 
 #  🛠️ Expertise
 #### ✔️ Node js Developer
